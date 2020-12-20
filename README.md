@@ -37,7 +37,9 @@ Subsequently, Panda™ is a great integrated tool to allow for regular people to
   - Note: This feature isn't too well developed. It was not a focus but **is** fully functional.
 
 # Installation and Requirements:
-- To install, simply clone this repository and run `PandaMain.py`. A virtual environment (`venv`) is included within this repository of `Python 3.7.8`. To get started, create a `#console` channel, run the `;setup` command and follow instructions.
+- To install, simply clone this repository and run `pip install -r requirements.txt`.
+- To run, start `PandaMain.py`.
+- To get started, create a `#console` channel, run the `;setup` command and follow the instructions.
 - Use `;help` to see quick descriptions of all pre-defined commands.
   <br>
   <p align="center">
