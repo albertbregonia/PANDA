@@ -12,7 +12,7 @@ Subsequently, Panda™ is a great integrated tool to allow for regular people to
   - Upon completion, the output of given code is sent as a regular Discord message
   <br>
   <p align="center">
-  <img title="Selection Sort" src=https://github.com/albertbregonia/PANDA/blob/master/src/main/img/selsort.png?raw=true></img>
+  <img title="Selection Sort" src=https://github.com/albertbregonia/PANDA/blob/main/img/selsort.png></img>
   </p>
 - Support for `pip install <package>`
   - All users are able to remotely add any package of their desire to Panda™'s system
@@ -42,9 +42,9 @@ Subsequently, Panda™ is a great integrated tool to allow for regular people to
 - Use `;help` to see quick descriptions of all pre-defined commands.
   <br>
   <p align="center">
-  <img title="Help" src=https://github.com/albertbregonia/PANDA/blob/master/src/main/img/help.png?raw=true></img>
+  <img title="Help" src=https://github.com/albertbregonia/PANDA/blob/main/img/help.png></img>
   </p>
-  - Note: If you do not have `FFmpeg` installed in your system's `PATH`, the binaries for Windows are included in the `bin` folder. If you are not running Windows, you can obtain a copy of `FFmpeg` for your system at the link below.
+ - Note: If you do not have `FFmpeg` installed in your system's `PATH`, the binaries for Windows are included in the `bin` folder. If you are not running Windows, you can obtain a copy of `FFmpeg` for your system at the link below.
 
 # Dependencies:
 - [Discord.py](https://github.com/Rapptz/discord.py "Discord.py by Rapptz")
