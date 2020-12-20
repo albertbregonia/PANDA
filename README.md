@@ -43,7 +43,7 @@ Subsequently, Panda™ is a great integrated tool to allow for regular people to
   <p align="center">
   <img title="Help" src=https://github.com/albertbregonia/PANDA/blob/main/img/help.png></img>
   </p>
- - Note: If you do not have `FFmpeg` installed in your system's `PATH`, the binaries for Windows are included in the `bin` folder. If you are not running Windows, you can obtain a copy of `FFmpeg` for your system at the link below.
+ - Note: If you do not have `FFmpeg` installed in your system's `PATH`, you can obtain a copy of `FFmpeg` for your system at the link below.
 
 # Dependencies:
 - [Discord.py](https://github.com/Rapptz/discord.py "Discord.py by Rapptz")
