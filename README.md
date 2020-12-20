@@ -10,7 +10,6 @@ Subsequently, Panda™ is a great integrated tool to allow for regular people to
   - In a `#console` channel, `;run <code>` is the command to run Python code
   - In a direct message channel, **all messages are assumed to be code**
   - Upon completion, the output of given code is sent as a regular Discord message
-  <br>
   <p align="center">
   <img title="Selection Sort" src=https://github.com/albertbregonia/PANDA/blob/main/img/selsort.png></img>
   </p>
