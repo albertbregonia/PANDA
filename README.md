@@ -38,7 +38,7 @@ Subsequently, Panda™ is a great integrated tool to allow for regular people to
 
 # Installation and Requirements:
 - To install, simply clone this repository and run `pip install -r requirements.txt`.
-- To run, start `PandaMain.py`.
+- To start the bot, run `PandaMain.py`.
 - To get started, create a `#console` channel, run the `;setup` command and follow the instructions.
 - Use `;help` to see quick descriptions of all pre-defined commands.
   <br>
