@@ -11,6 +11,9 @@ Subsequently, Panda™ is a great integrated tool to allow for regular people to
   - In a direct message channel, **all messages are assumed to be code**
   - Upon completion, the output of given code is sent as a regular Discord message
   <br>
+  <p align="center">
+  <img title="Selection Sort" src=https://github.com/albertbregonia/PANDA/blob/master/src/main/img/selsort.png?raw=true></img>
+  </p>
 - Support for `pip install <package>`
   - All users are able to remotely add any package of their desire to Panda™'s system
   <br>
@@ -35,8 +38,12 @@ Subsequently, Panda™ is a great integrated tool to allow for regular people to
   - Note: This feature isn't too well developed. It was not a focus but **is** fully functional.
 
 # Installation and Requirements:
-- To install, simply clone this repository and run `PandaMain.py`. A virtual environment (`venv`) is included within this repository of `Python 3.7.8`. To get started, run the `;setup` command and follow instructions.
+- To install, simply clone this repository and run `PandaMain.py`. A virtual environment (`venv`) is included within this repository of `Python 3.7.8`. To get started, create a `#console` channel, run the `;setup` command and follow instructions.
 - Use `;help` to see quick descriptions of all pre-defined commands.
+  <br>
+  <p align="center">
+  <img title="Help" src=https://github.com/albertbregonia/PANDA/blob/master/src/main/img/help.png?raw=true></img>
+  </p>
   - Note: If you do not have `FFmpeg` installed in your system's `PATH`, the binaries for Windows are included in the `bin` folder. If you are not running Windows, you can obtain a copy of `FFmpeg` for your system at the link below.
 
 # Dependencies:
