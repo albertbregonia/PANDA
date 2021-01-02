@@ -22,7 +22,7 @@ Subsequently, Panda™ is a great integrated tool to allow for regular people to
   - Using `;sc <script-name>`, users can display the source code for any saved script 
   <br>
 - Modularity
-  - A `CogTemplate.py` file is included in the `util` folder to allow any user to easily generate their own custom cog for Panda™ and append it seamlessly to the system
+  - A [`CogTemplate.py`](https://github.com/albertbregonia/PANDA/blob/main/util/CogTemplate.py) file is included in [`util`](https://github.com/albertbregonia/PANDA/tree/main/util) to allow any user to easily create their own custom cog for Panda™ and append it seamlessly to the system
   - The only requirement being that `;botload` needs to be ran every time the bot is restarted in order to load custom cogs
   <br>
 - Man-db Integration
@@ -38,7 +38,7 @@ Subsequently, Panda™ is a great integrated tool to allow for regular people to
 
 # Installation and Requirements:
 - To install, simply clone this repository and run `pip install -r requirements.txt`.
-- To start the bot, run `PandaMain.py`.
+- To start the bot, run [`PandaMain.py`](https://github.com/albertbregonia/PANDA/blob/main/PandaMain.py).
 - To get started, create a `#console` channel, run the `;setup` command and follow the instructions.
 - Use `;help` to see quick descriptions of all pre-defined commands.
   <br>
