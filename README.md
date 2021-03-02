@@ -1,8 +1,8 @@
 # PANDA™
 ## Your Discord Server's <ins>P</ins>ersonal <ins>A</ins>daptive <ins>N</ins>etwork-<ins>D</ins>riven <ins>A</ins>ssistant
- In short, Panda™ is a simple Discord bot with many features. It was designed to allow for `man-db` integration as well as instant `macro/script` creation within a Discord server. It promotes faster software development as well as collaboration between programmers. 
+ In short, **Panda™** is a simple Discord bot with many features. It was designed to allow for `man-db` integration as well as instant `macro/script` creation within a Discord server. It promotes faster software development as well as collaboration between programmers. 
 
-Subsequently, Panda™ is a great integrated tool to allow for regular people to learn Python programming. As only one person is required to have an installation of Python to run the bot, it is easy for anyone or any group to get started.
+Subsequently, **Panda™** is a great integrated tool to allow for regular people to learn Python programming. As only one person is required to have an installation of Python to run the bot, it is easy for anyone or any group to get started.
 
 # Main Features:
 - Integrated Python Interpreter
@@ -14,7 +14,7 @@ Subsequently, Panda™ is a great integrated tool to allow for regular people to
   <img title="Selection Sort" src=https://github.com/albertbregonia/PANDA/blob/main/img/selsort.png></img>
   </p>
 - Support for `pip install <package>`
-  - All users are able to remotely add any package of their desire to Panda™'s system
+  - All users are able to remotely add any package of their desire to **Panda™**'s system
   <br>
 - Macro/Script Creation
   - Code is allowed to be remotely saved to script files and assigned a name
@@ -22,7 +22,7 @@ Subsequently, Panda™ is a great integrated tool to allow for regular people to
   - Using `;sc <script-name>`, users can display the source code for any saved script 
   <br>
 - Modularity
-  - A [`CogTemplate.py`](https://github.com/albertbregonia/PANDA/blob/main/util/CogTemplate.py) file is included in [`util`](https://github.com/albertbregonia/PANDA/tree/main/util) to allow any user to easily create their own custom cog for Panda™ and append it seamlessly to the system. Simply replace the `###` with your code and `CogTemplate` with your module's name.
+  - A [`CogTemplate.py`](https://github.com/albertbregonia/PANDA/blob/main/util/CogTemplate.py) file is included in [`util`](https://github.com/albertbregonia/PANDA/tree/main/util) to allow any user to easily create their own custom cog for **Panda™** and append it seamlessly to the system. Simply replace the `###` with your code and `CogTemplate` with your module's name.
   - The only requirement being that `;botload` needs to be ran every time the bot is restarted in order to load custom cogs
   <br>
 - Man-db Integration
