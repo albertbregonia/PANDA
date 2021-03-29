@@ -47,7 +47,7 @@ Subsequently, **Panda™** is a great integrated tool to allow for regular peopl
   </p>
  - Note: If you do not have `FFmpeg` installed in your system's `PATH`, you can obtain a copy of `FFmpeg` for your system at the link below.
 
-# Dependencies:
+# Dependencies
 - [Discord.py](https://github.com/Rapptz/discord.py "Discord.py by Rapptz")
 - [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/ "BS4 HTML Parser")
 - [YouTube-DL](https://github.com/ytdl-org/youtube-dl "Youtube-dl by YTDL-org")
