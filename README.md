@@ -4,7 +4,7 @@
 
 Subsequently, **Panda™** is a great integrated tool to allow for regular people to learn Python programming. As only one person is required to have an installation of Python to run the bot, it is easy for anyone or any group to get started.
 
-# Main Features:
+# Main Features
 - Integrated Python Interpreter
   - Accessible in both in a `#console` channel or in a direct message
   - In a `#console` channel, `;run <code>` is the command to run Python code
@@ -36,7 +36,7 @@ Subsequently, **Panda™** is a great integrated tool to allow for regular peopl
   - Audio can be played with `;play <link>` and stopped with `;stop`
   - Note: This feature isn't too well developed. It was not a focus but **is** fully functional.
 
-# Installation and Requirements:
+# Installation and Requirements
 - To install, simply clone this repository and run `pip install -r requirements.txt`.
 - To start the bot, run [`PandaMain.py`](https://github.com/albertbregonia/PANDA/blob/main/PandaMain.py).
 - To get started, create a `#console` channel, run the `;setup` command and follow the instructions.
